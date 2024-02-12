@@ -1,0 +1,6 @@
+#clonar um repositorio
+git clone
+#adcionar mudancas
+git add <Arquivos>
+#enviar mudanças para o remoto github
+git push
